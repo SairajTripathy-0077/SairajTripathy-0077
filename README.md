@@ -1,8 +1,8 @@
 <div align="center">
 
-# ⚡ Sairaj Tripathy
+# Welcome, Im Sairaj Tripathy
 
-![Banner](https://capsule-render.vercel.app/render?type=waving&color=gradient&height=180&section=header&text=Building%20&%20Coding&fontSize=50&animation=fadeIn)
+![Banner](https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&text=Developer&fontSize=50&animation=fadeIn)
 
 <table>
   <tr>
@@ -44,9 +44,7 @@
 ### 📊 GitHub Insights
 <div align="center">
 
-![Sairaj's Stats](https://github-readme-stats.vercel.app/api?username=SairajTripathy-0077&show_icons=true&theme=neon&border_color=61dafb&hide_border=false)
-<br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SairajTripathy-0077&layout=compact&theme=neon&border_color=61dafb&hide_border=false)
+[![GitHub Streak](https://streak-stats.demolab.com?user=SairajTripathy-0077&theme=tokyonight)](https://git.io/streak-stats)
 
 </div>
 
