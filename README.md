@@ -1,6 +1,6 @@
 <div align="center">
 
-# Welcome, Im Sairaj Tripathy
+# Welcome, I'm Sairaj Tripathy
 
 ![Banner](https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&text=Developer&fontSize=50&animation=fadeIn)
 
@@ -13,7 +13,7 @@
       <p align="center">
         I build functional web systems and create indie game experiences. 
         <br />
-        <i>Currently pursuing Computer Science at NIT Rourkela.</i>
+        <i>Currently pursuing Computer Science (CSE '29) at NIT Rourkela.</i>
       </p>
     </td>
   </tr>
@@ -46,7 +46,9 @@
 ### 📊 GitHub Insights
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=SairajTripathy-0077&theme=tokyonight)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=SairajTripathy-0077&theme=tokyonight&layout=compact)](https://github.com/Pranesh-2005/github-readme-stats-fast) <br>
+[![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=SairajTripathy-0077&theme=tokyonight)](https://github-readme-stats-fast.vercel.app/api/streak?username=SairajTripathy-0077) <br>
+[![Sairaj's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SairajTripathy-0077&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
